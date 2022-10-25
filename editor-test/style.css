@@ -13,19 +13,19 @@ body {
     border: 1px solid;
 }
 
-.body {
+.viewport {
     height: 100%;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-.scene {
+.canvas {
     height: 0;
     width: 0;
 }
 
-.node {
+.properties {
     position: absolute;
     width: 300px;
     height: 300px;
